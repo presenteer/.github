@@ -1,4 +1,4 @@
-<img src="github-profile-readme.jpg" alt="Presenteer" />
+![Presenteer](https://raw.githubusercontent.com/presenteer/.github/main/profile/github-profile-readme.jpg)
 
 _Presenteer_ (/prez(ə)ntɪə(r)/) is a presentation engine for developers.
 
